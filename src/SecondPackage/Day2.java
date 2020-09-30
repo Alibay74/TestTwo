@@ -1,10 +1,11 @@
 package SecondPackage;
 
 public class Day2 {
+public static void main(String[] args) {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-System.out.println();
-	}
-
+boolean isRaining=true;
+if (isRaining) {
+System.out.println("it is Raining");
+}
+}
 }
